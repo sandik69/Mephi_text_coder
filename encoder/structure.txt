@@ -1,0 +1,21 @@
+Структура папок тома Home
+Серийный номер тома: 75A8-4035
+D:.
+|   structure.txt
+|   
++---Cesar
+|       Cesar_coder.py
+|       Cesar_decoder.py
+|       crypt_message.txt
+|       decrypt_message.txt
+|       input.txt
+|       
+\---XOR_key
+    |   XOR_coder.py
+    |   
+    \---text_data
+            crypt_message.txt
+            decrypt_message.txt
+            input.txt
+            key.txt
+            
